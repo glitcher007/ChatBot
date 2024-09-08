@@ -38,10 +38,3 @@ As the lead developer, I was responsible for designing and implementing the **Py
 - **Pre-trained Embeddings**: Word embeddings like **Word2Vec** and **GloVe** to enhance the model's understanding of words.
 - **Python**: Backend language for implementing the AI model and chatbot logic.
 
-## How to Run the Project
-
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/yourusername/healthbot.git
-   cd healthbot
-
